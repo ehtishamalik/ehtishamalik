@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on an Android application.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on Python projects.
-- 🤔 I’m looking for help with Python with Flutter.
+- 🤔 I’m looking for help with Flutter using Python.
 - 💬 Ask me about Python or any tech stuff.
 - 📫 How to reach me: LinkedIn: [@ehtishamalik](https://www.linkedin.com/in/ehtishamalik), Twitter: [@ehtishamalik_](https://twitter.com/ehtishamalik_)
 - 😄 Pronouns: He/His
