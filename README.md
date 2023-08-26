@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently working on an Android application.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on Python projects.
-- 🤔 I’m looking for help with Flutter using Python.
+- 🤔 I’m looking for help with Web Development.
 - 💬 Ask me about Python or any tech stuff.
 - 📫 How to reach me: LinkedIn: [@ehtishamalik](https://www.linkedin.com/in/ehtishamalik), Twitter: [@ehtishamalik_](https://twitter.com/ehtishamalik_)
 - 😄 Pronouns: He/His
