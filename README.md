@@ -8,11 +8,10 @@
 - 🌱 Expanding my expertise in **Web Development & Backend Systems**.  
 - 👯 Open to collaborating on **Python, JavaScript, or full stack projects**.  
 - 💬 Ask me about **Python, JavaScript, or any tech-related topic**.  
-- 🌐 Portfolio: [Your Website](https://your-website.com) <!-- 🔗 Replace with your website link -->
+- 🌐 Portfolio: [ehtishamalik](https://ehtishamalik.com)
 - 📫 Connect with me:  
   - [LinkedIn](https://www.linkedin.com/in/ehtishamalik)  
   - [Twitter](https://twitter.com/ehtishamalik)
-  - [Website](https://ehtishamalik.com)  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: *There’s a fish with legs, and it’s called the Pink Frogmouth.*  
 
